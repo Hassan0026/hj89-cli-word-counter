@@ -4,6 +4,7 @@
   "description": "Counting characters and words without white spaces",
   "main": "index.js",
   "type": "module",
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
